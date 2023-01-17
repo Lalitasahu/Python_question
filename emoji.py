@@ -2,10 +2,6 @@
 #  😀=11
 #  😁=😀+🙂
 
-
-🙂=10
-#  😀=11
-#  😁=😀+🙂
 """n=int(input("Enter the series : "))
 series=1
 for i in range(1,n+1):
