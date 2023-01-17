@@ -19,12 +19,9 @@ for i in x['products']:
 # print(x['products'][0].keys())
 for i in x['products']:
     print(i)
-    
-
-
-    
+       
 with open('dress_output.json','w') as file:
     file.write(json.dumps(l,indent=4,sort_keys=True))
-print(len(l))
+    print(len(l))
 
 
